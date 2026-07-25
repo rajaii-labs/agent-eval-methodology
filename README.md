@@ -242,6 +242,8 @@ The spine of this document is not specific to agents, or to memory, or to Claude
 The adjudication discipline here is imported directly from my parallel work authoring evaluation and preference data for production legal LLM systems, where model outputs are graded pass/fail against written professional standards — citation accuracy, jurisdictional correctness, reasoning-chain validity — under multi-stage expert review. The two practices converged on the same shape from opposite directions: a written standard, deterministic ground truth, strict binary adjudication, and root-cause forensics on every failure. That convergence is, I think, the point: this is simply what it looks like to take a deployed model's behavior seriously.
 
 ---
+*Continued in* [**"Shadow, Position, Silence: What a Cost Investigation Found in a Production LLM Agent"**](https://github.com/rajaii-labs/agent-cost-forensics) 
+*(Rajaii Labs, July 2026).*
 
 *Substrate is a production system of Rajaii Labs, built on Claude. Architecture and methodology questions welcome: ramin@raminrajaii.com.*
 
