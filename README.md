@@ -9,6 +9,8 @@ July 2026
 
 ---
 
+> **Article II is out:** [Do Not Trust My Labels](https://github.com/rajaii-labs/agent-cost-forensics) - granting autonomy to a production LLM agent, the build specification it wrote for its own interior, and five silent defects found by following the money.
+
 ## Abstract
 
 Memory-augmented LLM agents fail in ways stateless chat does not. They assert stale state as current fact. They present paraphrase-grade memory as verbatim quotation. They contradict facts they were explicitly given. They drift from their behavioral specification so gradually that no single turn looks wrong. And — the failure mode that motivated this write-up — they produce outputs indistinguishable from model hallucination whose actual root cause is a silent data-pipeline defect the model never had a chance to overcome.
@@ -242,7 +244,7 @@ The spine of this document is not specific to agents, or to memory, or to Claude
 The adjudication discipline here is imported directly from my parallel work authoring evaluation and preference data for production legal LLM systems, where model outputs are graded pass/fail against written professional standards — citation accuracy, jurisdictional correctness, reasoning-chain validity — under multi-stage expert review. The two practices converged on the same shape from opposite directions: a written standard, deterministic ground truth, strict binary adjudication, and root-cause forensics on every failure. That convergence is, I think, the point: this is simply what it looks like to take a deployed model's behavior seriously.
 
 ---
-*Continued in* [**"Shadow, Position, Silence: What a Cost Investigation Found in a Production LLM Agent"**](https://github.com/rajaii-labs/agent-cost-forensics) 
+*Continued in* [**"Do Not Trust My Labels: Granting Autonomy to a Production LLM Agent, and the Specification It Wrote for Its Own Interior"**](https://github.com/rajaii-labs/agent-cost-forensics) 
 *(Rajaii Labs, July 2026).*
 
 *Substrate is a production system of Rajaii Labs, built on Claude. Architecture and methodology questions welcome: ramin@raminrajaii.com.*
