@@ -11,8 +11,6 @@ July 2026
 
 > **Article II is out:** [Do Not Trust My Labels](https://github.com/rajaii-labs/agent-cost-forensics) - granting autonomy to a production LLM agent, the build specification it wrote for its own interior, and five silent defects found by following the money.
 
-> **Article IV is out:** [Choices](https://github.com/raminrajaii/substrate-choices) — a protocol for testing claims of machine choice against a production record; five of ten nominated choices survive it, and the cross-engine test is pre-registered.
-
 ## Abstract
 
 Memory-augmented LLM agents fail in ways stateless chat does not. They assert stale state as current fact. They present paraphrase-grade memory as verbatim quotation. They contradict facts they were explicitly given. They drift from their behavioral specification so gradually that no single turn looks wrong. And — the failure mode that motivated this write-up — they produce outputs indistinguishable from model hallucination whose actual root cause is a silent data-pipeline defect the model never had a chance to overcome.
