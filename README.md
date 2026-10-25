@@ -1,5 +1,7 @@
 # Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes
 
+![Cover](./Substrate_Recall_Negation_Abstention_Cover.png)
+
 **A field methodology for hallucination, contradiction, and drift detection in memory-augmented agents**
 
 **Ramin Rajaii** — Rajaii Labs
