@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it using the metadata below."
+title: "Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes"
+version: "2.0.0"
+authors:
+  - family-names: "Rajaii"
+    given-names: "Ramin"
+    orcid: "https://orcid.org/0009-0009-5517-6701"
+    affiliation: "Rajaii Labs"
+date-released: "2026-11-21"
+url: "https://github.com/rajaii-labs/agent-eval-methodology"
+keywords:
+  - LLM agents
+  - agent evaluation
+  - hallucination
+  - long-term memory
+  - abstention
+  - failure taxonomy
+  - Substrate
+preferred-citation:
+  type: report
+  title: "Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes"
+  authors:
+    - family-names: "Rajaii"
+      given-names: "Ramin"
+      orcid: "https://orcid.org/0009-0009-5517-6701"
+      affiliation: "Rajaii Labs"
+  institution:
+    name: "Rajaii Labs"
+  edition: "2nd"
+  month: 11
+  year: 2026
+  notes: "Substrate series, Article I. Second edition, November 2026; first published July 2026."
