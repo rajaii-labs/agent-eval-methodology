@@ -4,7 +4,7 @@
 
 **A false answer from an agent with months of memory, traced to two defects in its data, and the rule that followed: look it up, or say it cannot.**
 
-Rajaii Labs · Substrate Series · Article I · Second edition, November 2026
+Rajaii Labs · Substrate Series · Article I · November 2026
 
 This paper traces one false sentence from a production AI agent to its causes: the agent said a business engagement was still pending days after it had been declined, because two defects in its data, a stale stored fact and a size limit in its memory pipeline that silently cut the stretch of the day's conversation where the engagement was declined, had kept the change out of both its memories. Substrate is a production AI agent built on Claude that I have run for one user, me, since April 2026; its memory, its record of facts and its standing instructions live outside the model, so the model can be replaced and the agent stays. From failures like this one came a method small enough to copy: seven kinds of failure that all look alike to the user; after every material change, three kinds of question asked cold, in a fresh session (recall of a stored fact, negation of what its records mark false, abstention where nothing is stored); and a read-only tool over the agent's own records, so that for anything it can check it looks the answer up or says it cannot. It is one agent with one user, described as of July 2026, with what the later papers found through November 2026.
 
@@ -48,12 +48,12 @@ This paper traces one false sentence from a production AI agent to its causes: t
 ```bibtex
 @techreport{rajaii2026recall,
   author      = {Rajaii, Ramin},
-  title       = {Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes},
+  title       = {Recall, Negation, Abstention: A false answer from an agent with months of memory, traced to two defects in its data, and the rule that followed: look it up, or say it cannot},
   institution = {Rajaii Labs},
   year        = {2026},
   month       = nov,
   edition     = {Second},
-  note        = {Substrate series, Article I. First edition July 2026}
+  note        = {Substrate series, Article I. First published July 2026}
 }
 ```
 

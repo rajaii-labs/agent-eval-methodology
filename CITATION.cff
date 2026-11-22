@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you reference this work, please cite it using the metadata below."
-title: "Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes"
+title: "Recall, Negation, Abstention: A false answer from an agent with months of memory, traced to two defects in its data, and the rule that followed: look it up, or say it cannot"
 version: "2.0.0"
 authors:
   - family-names: "Rajaii"
@@ -19,7 +19,7 @@ keywords:
   - Substrate
 preferred-citation:
   type: report
-  title: "Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes"
+  title: "Recall, Negation, Abstention: A false answer from an agent with months of memory, traced to two defects in its data, and the rule that followed: look it up, or say it cannot"
   authors:
     - family-names: "Rajaii"
       given-names: "Ramin"
