@@ -12,7 +12,7 @@ This paper traces one false sentence from a production AI agent to its causes: t
 
 **Second edition, November 2026.** The findings are the first edition's (July 2026), told as a story, with the seven corrections later articles printed applied in place. The first edition is kept as it stood before this edition, its PDF exactly as first published, at the tag [`first-edition`](https://github.com/rajaii-labs/agent-eval-methodology/tree/first-edition) and in [`archive/first-edition/`](./archive/first-edition/README.md); references to its sections still land.
 
-**The Substrate series:** Article I, this paper · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · [Article III](https://github.com/raminrajaii/substrate-preconditions) · [Article IV](https://github.com/raminrajaii/substrate-choices) · [Article V](https://github.com/raminrajaii/substrate-recursion)\
+**The Substrate series:** Article I, this paper · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · [Article III](https://github.com/rajaii-labs/substrate-preconditions) · [Article IV](https://github.com/rajaii-labs/substrate-choices) · [Article V](https://github.com/rajaii-labs/substrate-recursion)\
 **How to cite:** Rajaii, R. (2026). *Recall, Negation, Abstention: A false answer from an agent with months of memory, traced to two defects in its data, and the rule that followed: look it up, or say it cannot* (2nd ed.). Rajaii Labs, Substrate series, Article I. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
 
 ---
@@ -39,9 +39,9 @@ This paper traces one false sentence from a production AI agent to its causes: t
 
 1. **Recall, Negation, Abstention** — Rajaii Labs, July 2026 · second edition, November 2026. *This paper.*
 2. **Do Not Trust My Labels** — Rajaii Labs, July 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/agent-cost-forensics)
-3. **Preconditions** — Rajaii Labs, August 2026 · second edition, November 2026. [Repository](https://github.com/raminrajaii/substrate-preconditions)
-4. **Choices** — Rajaii Labs, October 2026 · second edition, November 2026. [Repository](https://github.com/raminrajaii/substrate-choices)
-5. **Recursion** — Rajaii Labs, November 2026. [Repository](https://github.com/raminrajaii/substrate-recursion)
+3. **Preconditions** — Rajaii Labs, August 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/substrate-preconditions)
+4. **Choices** — Rajaii Labs, October 2026 · second edition, November 2026. [Repository](https://github.com/rajaii-labs/substrate-choices)
+5. **Recursion** — Rajaii Labs, November 2026. [Repository](https://github.com/rajaii-labs/substrate-recursion)
 
 ## Citation
 
